@@ -30,8 +30,8 @@ https://github.com/Karlof99/nft-card-component/blob/master/nft-card-screenshot.p
 
 ### Links
 
-- Solution URL: https://github.com/Karlof99/nft-card-component
-- Live Site URL: https://karlof99.github.io/nft-card-component
+- Solution URL: https://github.com/Karlof99/nft-card-component/
+- Live Site URL: https://karlof99.github.io/nft-card-component/
 
 ## My process
 
