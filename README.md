@@ -86,7 +86,7 @@ I want to improve my hability in HTML, CSS, JS, Flexbox, Grid, Bootstrap, Webflo
 ## Author
 
 - Website - Carlos Ortiz (page in construction)
-- Frontend Mentor - @Karlof99
+- Frontend Mentor - https://www.frontendmentor.io/profile/Karlof99
 
 
 
